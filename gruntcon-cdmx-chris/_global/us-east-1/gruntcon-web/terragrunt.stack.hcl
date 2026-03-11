@@ -4,6 +4,6 @@ unit "gruntcon-web" {
 
   values = {
     team_name  = "Los Aguilas"  # Change to your team name
-    image_path = "gruntcon-cdmx-chris/_global/us-east-1/gruntcon-web/aguilas.png"  # Path relative to repo root
+    image_path = "aguilas.png"  # Path relative to repo root
   }
 }
